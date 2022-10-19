@@ -12,12 +12,12 @@
 Обязательная часть
 --
 Мы должны написать свои функции, которые должны имплементировать работу оригинальных. Они не должны содержать сторонних функций:
-isalpha	isdigit	isalnum	isascii
-isprint	strlen	memset	bzero
-memcpy	memmove	strlcpy	strlcat
-toupper	tolower	strchr	strrchr
-strncmp	memchr	memcmp	strnstr
-atoi	calloc	strdup
+isalpha,	isdigit,	isalnum,	isascii,
+isprint,	strlen,	memset,	bzero,
+memcpy,	memmove,	strlcpy,	strlcat,
+toupper,	tolower,	strchr,	strrchr,
+strncmp,	memchr,	memcmp,	strnstr,
+atoi,	calloc,	strdup
 
 Создать дополнительные функции:
 
